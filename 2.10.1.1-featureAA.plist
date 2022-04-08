@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string></string>
+                   <string>https://raw.githubusercontent.com/yx8728/testIosAppInstall/main/icon-180.png</string>
                </dict>
       <dict>
                    <key>kind</key>
