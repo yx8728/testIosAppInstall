@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string></string>
+                   <string>https://raw.githubusercontent.com/yx8728/testIosAppInstall/main/icon-1024.png</string>
               </dict>
            </array>
            <key>metadata</key>
